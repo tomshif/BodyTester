@@ -14,6 +14,7 @@
 		F4E53E442394674F00638388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E53E432394674F00638388 /* ViewController.swift */; };
 		F4E53E462394675100638388 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E53E452394675100638388 /* Assets.xcassets */; };
 		F4E53E492394675100638388 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4E53E472394675100638388 /* Main.storyboard */; };
+		F4E53E522394ADCB00638388 /* random.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E53E512394ADCA00638388 /* random.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		F4E53E482394675100638388 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F4E53E4A2394675100638388 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4E53E4B2394675100638388 /* BodyTester.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BodyTester.entitlements; sourceTree = "<group>"; };
+		F4E53E512394ADCA00638388 /* random.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = random.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F4E53E3D2394674F00638388 /* GameScene.sks */,
 				F4E53E3F2394674F00638388 /* Actions.sks */,
 				F4E53E412394674F00638388 /* GameScene.swift */,
+				F4E53E512394ADCA00638388 /* random.swift */,
 				F4E53E432394674F00638388 /* ViewController.swift */,
 				F4E53E452394675100638388 /* Assets.xcassets */,
 				F4E53E472394675100638388 /* Main.storyboard */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4E53E522394ADCB00638388 /* random.swift in Sources */,
 				F4E53E442394674F00638388 /* ViewController.swift in Sources */,
 				F4E53E422394674F00638388 /* GameScene.swift in Sources */,
 				F4E53E3C2394674F00638388 /* AppDelegate.swift in Sources */,
